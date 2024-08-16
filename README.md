@@ -6,7 +6,6 @@ Conditional formatting
 Charts  
 Pivot  
 Power Pivot  
-Copilot
 
 Data Source:  
 https://worldhappiness.report/data/  
