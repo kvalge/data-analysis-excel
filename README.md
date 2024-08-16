@@ -9,6 +9,3 @@ Power Pivot
 
 Data Source:  
 https://worldhappiness.report/data/  
-
-Tutorial:  
-https://www.youtube.com/watch?v=qrbf9DtR3_c  
