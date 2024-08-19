@@ -7,6 +7,7 @@ Charts
 Pivot  
 Power Pivot  
 Macros  
+Excel Power Query (Get &Transform)  
 
 Data Source:  
 https://worldhappiness.report/data/  
